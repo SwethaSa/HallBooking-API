@@ -43,15 +43,15 @@ app.get("/", function (request, response) {
       <body>
         <p>
           <img src="https://cdn-icons-png.flaticon.com/512/2645/2645420.png">
-          <a href="https://hall-booking-api.vercel.app/rooms" target="_blank">Total rooms</a>
+          <a href="https://hallbooking-api-itpg.onrender.com/rooms" target="_blank">Total rooms</a>
         </p>
         <p>
           <img src="https://cdn-icons-png.flaticon.com/512/1535/1535044.png">
-          <a href="https://hall-booking-api.vercel.app/bookings" target="_blank">All Bookings</a>
+          <a href="https://hallbooking-api-itpg.onrender.com/bookings" target="_blank">All Bookings</a>
         </p>
         <p>
           <img src="https://cdn-icons-png.flaticon.com/512/6543/6543839.png">
-          <a href="https://hall-booking-api.vercel.app/customer_bookings" target="_blank">Customer with Booked Data</a>
+          <a href="https://hallbooking-api-itpg.onrender.com/customer_bookings" target="_blank">Customer with Booked Data</a>
         </p>
       </body>
     </html>
